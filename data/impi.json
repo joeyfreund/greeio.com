@@ -2,9 +2,9 @@
 	"id" : "impi__juluka",
 
 	"artwork" : {
-		"imageUrl-xs" : "http://s3.amazonaws.com/greeio.com/img/impi_artwork-xs.jpg",
-		"imageUrl-sm" : "http://s3.amazonaws.com/greeio.com/img/impi_artwork-sm.jpg",
-		"imageUrl-md" : "http://s3.amazonaws.com/greeio.com/img/impi_artwork-md.jpg",
+		"imageUrl-xs" : "https://s3.amazonaws.com/greeio.com/img/impi_artwork-xs.jpg",
+		"imageUrl-sm" : "https://s3.amazonaws.com/greeio.com/img/impi_artwork-sm.jpg",
+		"imageUrl-md" : "https://s3.amazonaws.com/greeio.com/img/impi_artwork-md.jpg",
 		"title" : "Springbok Anthem",
 		"subTitle": "From The Battle Of Isandlwana To The Rugby Field",
 		"artist" : {

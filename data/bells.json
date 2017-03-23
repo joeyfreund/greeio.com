@@ -2,10 +2,10 @@
 	"id" : "the_ringing_of_bells__ahuva_uzery",
 
 	"artwork" : {
-		"imageUrl-xs" : "http://s3.amazonaws.com/greeio.com/img/bells_artwork-xs.jpg",
-		"imageUrl-sm" : "http://s3.amazonaws.com/greeio.com/img/bells_artwork-sm.jpg",
-		"imageUrl-md" : "http://s3.amazonaws.com/greeio.com/img/bells_artwork-md.jpg",
-		"imageUrl-lg" : "http://s3.amazonaws.com/greeio.com/img/bells_artwork-lg.jpg",
+		"imageUrl-xs" : "https://s3.amazonaws.com/greeio.com/img/bells_artwork-xs.jpg",
+		"imageUrl-sm" : "https://s3.amazonaws.com/greeio.com/img/bells_artwork-sm.jpg",
+		"imageUrl-md" : "https://s3.amazonaws.com/greeio.com/img/bells_artwork-md.jpg",
+		"imageUrl-lg" : "https://s3.amazonaws.com/greeio.com/img/bells_artwork-lg.jpg",
 
 		"title" : "The Bells Echo Through The Vineyard",
 		"subTitle": "The Story Of A Local Musical Icon",
