@@ -1,10 +1,10 @@
  {
 	"id" : "weeping__bright_blue",
-	
+
 	"artwork" : {
-		"imageUrl-xs" : "img/weeping_artwork-xs.jpg",
-		"imageUrl-sm" : "img/weeping_artwork-sm.jpg",
-		"imageUrl-md" : "img/weeping_artwork-md.jpg",
+		"imageUrl-xs" : "http://s3.amazonaws.com/greeio.com/img/weeping_artwork-xs.jpg",
+		"imageUrl-sm" : "http://s3.amazonaws.com/greeio.com/img/weeping_artwork-sm.jpg",
+		"imageUrl-md" : "http://s3.amazonaws.com/greeio.com/img/weeping_artwork-md.jpg",
 		"title" : "From Blue To Bright",
 		"subTitle": "The Story Of The Rainbow Nation",
 		"artist" : {
@@ -12,42 +12,42 @@
 			"url" : "http://pettitpaintings.blogspot.com"
 		}
 	},
-		
-	
+
+
 	"mainMedia" : {"url" : "http://www.youtube.com/embed/GeecXiqNzWA", "youtubeId" : "GeecXiqNzWA"},
-		
+
 	"metadata" : {
 			"year" : 1987,
 			"country" : "South Africa",
 			"countryCode" : "za",
 			"title" : "Weeping",
 			"artist" : "Bright Blue",
-			
+
 			"credits" : [
-			
+
 				{"tag" : "p",
 				 "content" : "Music & Lyrics by Dan Heymann."
 				},
-				
+
 				{"tag" : "p",
 				 "content" : "Story by Marguerite de Villiers."
 				},
-				
+
 				{"tag" : "p",
 				 "content" : [
 				 	"Artwork by ",
 				 	{"tag" : "a", "href" : "http://pettitpaintings.blogspot.com", "content" : "Michael Pettit"},
-				 	"." 
+				 	"."
 				 	]
 				}
 			]
 	},
-		
-		
+
+
 	"article" : {
-			
+
 			"content" : [
-			
+
 				{
 				"tag" : "div",
 				"cls" : "p",
@@ -57,14 +57,14 @@
 						", from 1985 until 1989, South Africa was in a state of emergency. Despite the horror of brutal killings and the crippling effect of mass oppression in a fragmented nation, people turned to music as both a mode of expression and a form of solidarity."
 					]
 				},
-				
-				
+
+
 				{
 				"tag" : "div",
 				"cls" : "p",
 				"content" : [
 						"One such example is the song ",
-						{"tag" : "i", "cotnent" : "Weeping"}, 
+						{"tag" : "i", "cotnent" : "Weeping"},
 						"by Bright Blue. The band's name was lyrical in itself; reflecting ",
 						{"tag" : "a", "href" : "http://www.rock.co.za/brightblue/history.html", "content" : "\"the paradox of being bright in a very blue time\""},
 						", and the song embodied the concerns of a country silenced by its leaders. Dan Heymann, the band's keyboard player, wrote the music while in the army; a sad reality the white youth had to adhere to, and wrote the lyrics, in 1986, in response to apartheid's censorship of media. The song became a hit, and Bright Blue managed to cleverly fool the media censor - It included a banned piece of music, ",
@@ -72,8 +72,8 @@
 						", as an instrumental bridge one and a half minutes into the song"
 					]
 				},
-				
-				
+
+
 				{
 				"tag" : "div",
 				"cls" : "p",
@@ -82,8 +82,8 @@
 						", now part of South Africa's national anthem, is a prayer asking God to bless Africa. It was the anthem of the opposition party, the ANC, and so was banned for its political connotations and connections. By including this illegal hymn in their song, Bright Blue gave it new meaning; neither a struggle song nor a call for political uprising, but a solemn subliminal message that appeals to humanity in inhumane times."
 					]
 				},
-				
-				
+
+
 				{
 				"tag" : "div",
 				"cls" : "excerpt",
@@ -91,8 +91,8 @@
 						"\"But as the night came round<br />I heard its lonely sound;<br />It wasn't roaring, it was weeping\""
 					]
 				},
-				
-				
+
+
 				{
 				"tag" : "div",
 				"cls" : "p",
@@ -102,23 +102,23 @@
 						"tell the story of three characters: The man, demon and neighbours. The 'man' in the song refers to P.W. Botha, the state president at the time, and one of the last white leaders before the end of apartheid. The 'demon' encompasses the aspirations of the oppressed majority, seen as a threat to the minority rule, and the 'neighbours' are the journalists who came from other countries to monitor the unravelling of events."
 					]
 				},
-				
-				
+
+
 				{
 				"tag" : "div",
 				"cls" : "p",
 				"content" : [
 						{"tag" : "i", "content" : "Weeping"},
 						"was voted the number one South African song of all time in 1999 and is still iconic today. It is a reminder of the turbulent times in which it came about, and a signifier of how far the country has come. South Africans no longer look for silver linings shining bright in blue times, but celebrate a ",
-						{"tag" : "a", "href" : "https://en.wikipedia.org/wiki/Rainbow_Nation", "content" : "rainbow nation"}, 
+						{"tag" : "a", "href" : "https://en.wikipedia.org/wiki/Rainbow_Nation", "content" : "rainbow nation"},
 						"with a bright future."
 					]
 				}
-				
-			
-				
+
+
+
 			]
-	
+
 	}
-			
+
 }

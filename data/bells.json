@@ -1,12 +1,12 @@
  {
 	"id" : "the_ringing_of_bells__ahuva_uzery",
-	
+
 	"artwork" : {
-		"imageUrl-xs" : "img/bells_artwork-xs.jpg",
-		"imageUrl-sm" : "img/bells_artwork-sm.jpg",
-		"imageUrl-md" : "img/bells_artwork-md.jpg",
-		"imageUrl-lg" : "img/bells_artwork-lg.jpg",
-		
+		"imageUrl-xs" : "http://s3.amazonaws.com/greeio.com/img/bells_artwork-xs.jpg",
+		"imageUrl-sm" : "http://s3.amazonaws.com/greeio.com/img/bells_artwork-sm.jpg",
+		"imageUrl-md" : "http://s3.amazonaws.com/greeio.com/img/bells_artwork-md.jpg",
+		"imageUrl-lg" : "http://s3.amazonaws.com/greeio.com/img/bells_artwork-lg.jpg",
+
 		"title" : "The Bells Echo Through The Vineyard",
 		"subTitle": "The Story Of A Local Musical Icon",
 		"artist" : {
@@ -14,10 +14,10 @@
 			"url" : null
 		}
 	},
-		
-	
+
+
 	"mainMedia" : {"url" : "http://www.youtube.com/embed/oISiyEdnijc", "youtubeId" : "oISiyEdnijc"},
-		
+
 	"metadata" : {
 			"year" : 1999,
 			"country" : "Israel",
@@ -25,30 +25,30 @@
 			"title" : "Tziltzulei Pa'amonim (The Ringing of Bells)",
 			"artist" : "Ahuva Uzery",
 			"credits" : [
-				
+
 				{"tag" : "p",
 				 "content" : "Music by Ahuva Uzery; lyrics by Yair Medina & Ahuva Uzery."
 				},
-				
+
 				{"tag" : "p",
 				 "content" : "Story by Joey Freund."
 				},
-				
+
 				{"tag" : "p",
 				 "content" : [
 				 	"Artwork by ",
 				 	{"tag" : "a", "href" : "http://cafe.themarker.com/gallery/391503/?p=2", "content" : "LLMAN"},
-				 	"." 
+				 	"."
 				 	]
 				}
 			]
 	},
-		
-		
+
+
 	"article" : {
-			
+
 			"content" : [
-			
+
 				{
 				"tag" : "div",
 				"cls" : "p",
@@ -60,15 +60,15 @@
 						" who sang through their hardest of times, as well as the voice that \"gets the party going\" during celebrations."
 					]
 				},
-				
-				
+
+
 				{
 				"tag" : "p",
 				"cls" : "excerpt",
 				"content" : "\"The ringing of bells, echoing inside my heart ...\""
 				},
-				
-				
+
+
 				{
 				"tag" : "div",
 				"cls" : "p",
@@ -76,15 +76,15 @@
 						"Fast forward to 1975. Ahuva releases her debut album, which sells 300,000 copies (almost 10% of the country's population, at the time). Her tremendous success came against all odds - Ahuva's music was associated with the \"Mizrahit\" (Hebrew for Eastern) genre, popular among immigrants from the Middle East or Northern Africa. At that time, mainstream media in Israel was run by Ashkenazi jews (descendants of immigrants from eastern Europe), and \"Mizrahit\" music was hardly ever played on the radio. It was an underground genre, known for its low-budget productions, as well as the artists' close relations with their fans (many of them played several shows a day). Ahuva became the first female star of this traditionally male-dominated genre."
 					]
 				},
-				
-				
+
+
 				{
 				"tag" : "p",
 				"cls" : "excerpt",
 				"content" : "\"Meeting along the main road ...\""
 				},
-				
-				
+
+
 				{
 				"tag" : "div",
 				"cls" : "p",
@@ -94,15 +94,15 @@
 						". Zohar Argov, one of the biggest stars in Israel's music history, was her vocal student. Hadag Nahash, a successful hip-hop group, hosted her in one of their hit songs, and Yehudit Ravitz, one of the country's iconic rock/pop musicians, recently recorded one of Ahuva's songs. With such a prolific and diverse career, you never know what to expect of Ahuva, except for one thing: The road always leads back to The Vineyard. At the peak of her career, you could still find her helping in the kitchen of one of the local restaurants. And, until this day, she meets her siblings on a daily basis in one the neighbourhood's hangouts."
 					]
 				},
-				
-				
+
+
 				{
 				"tag" : "p",
 				"cls" : "excerpt",
 				"content" : "\"My eyes filled with tears of joy ...\""
 				},
-				
-				
+
+
 				{
 				"tag" : "div",
 				"cls" : "p",
@@ -110,10 +110,10 @@
 						"In 2000, Ahuva came back on stage, after a long break, with her album \"Tziltzulei Pa'amonim\" (The Ringing of Bells). Unfortunately, the tour had to stop early, as she lost her vocal chords to cancer. After 6 months of silence, with the help of a medical device, she learned to speak again, and even sing to some extent. In 2008, Ahuva gained a long overdue recognition from the mainstream media - A lifetime achievement award for her contribution to Israeli music and culture, awarded to her by the Association of Composers, Authors and Publishers. In 2013, sixteen renowned local artists, from a wide spectrum of musical genres, joined to record a full album written and composed by Ahuva. Although she no longer sings professionally, visitors to The Vineyard can still enjoy her spontaneous singing, as the bells of joy keep on ringing for this neighbourhood icon."
 					]
 				}
-				
-				
+
+
 			]
-	
+
 	}
-			
+
 }

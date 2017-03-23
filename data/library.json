@@ -3,32 +3,32 @@
 		"title" : "Springbok Anthem",
 		"subTitle" : "From The Battle Of Isandlwana To The Rugby Field",
 		"summary" : "Every rugby fan is familiar with New Zealand's Haka, a traditional Maori war cry made up of rhythmic chanting and fierce stamping.",
-		"thumbnail" : "img/impi_artwork-xs.jpg",
+		"thumbnail" : "http://s3.amazonaws.com/greeio.com/img/impi_artwork-xs.jpg",
 		"country" : "za",
 		"author" : "Marguerite de Villiers",
-		"authorThumbnail" : "img/authors/mdv_author_thumbnail.jpg",
+		"authorThumbnail" : "http://s3.amazonaws.com/greeio.com/img/authors/mdv_author_thumbnail.jpg",
 		"id" : "1"
 	},
-	
+
 	{
 		"title" : "The Bells Echo Through The Vineyard",
 		"subTitle" : "The Story Of A Local Musical Icon",
 		"summary" : "Our story starts in the 1950's, at the center of Tel-Aviv. The \"Yemenite Vineyard\", a poor immigrant neighbourhood with a picturesque name",
-		"thumbnail" : "img/bells_artwork-xs.jpg",
+		"thumbnail" : "http://s3.amazonaws.com/greeio.com/img/bells_artwork-xs.jpg",
 		"country" : "il",
 		"author" : "Joey Freund",
-		"authorThumbnail" : "img/authors/joey_author_thumbnail.jpg",
+		"authorThumbnail" : "http://s3.amazonaws.com/greeio.com/img/authors/joey_author_thumbnail.jpg",
 		"id" : "2"
 	},
-	
+
 	{
 		"title" : "From Blue To Bright",
 		"subTitle" : "The Story Of The Rainbow Nation",
 		"summary" : "At the height of apartheid, from 1985 until 1989, South Africa was in a state of emergency. Despite the horror",
-		"thumbnail" : "img/weeping_artwork-xs.jpg",
+		"thumbnail" : "http://s3.amazonaws.com/greeio.com/img/weeping_artwork-xs.jpg",
 		"country" : "za",
 		"author" : "Marguerite de Villiers",
-		"authorThumbnail" : "img/authors/mdv_author_thumbnail.jpg",
+		"authorThumbnail" : "http://s3.amazonaws.com/greeio.com/img/authors/mdv_author_thumbnail.jpg",
 		"id" : "3"
 	}
 ]
