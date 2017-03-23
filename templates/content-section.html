@@ -1,0 +1,24 @@
+<section class="row">
+
+	<div id="content-summary-section" class="col-sm-5 col-md-4">
+	<div id="content-summary-wrapper">
+	
+		<p class="large bold">{{song.metadata.year}}, {{song.metadata.country}}</p>
+		
+		<p>
+		<span class="large italic">{{song.metadata.title}}</span> by  
+		<span class="large italic">{{song.metadata.artist}}</span>
+		</p>
+		
+		<youtube youtube-id="{{song.mainMedia.youtubeId}}"></youtube>
+		<div data-song-credits id="credits-box"></div>
+			
+	</div>
+	</div>
+	
+	
+	 <div id="article-wrapper" class="col-sm-7 col-md-8 container-fluid">
+	 	<div data-song-article class="article"></div>
+	 </div>
+
+</section>

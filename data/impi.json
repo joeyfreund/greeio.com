@@ -1,0 +1,111 @@
+ {
+	"id" : "impi__juluka",
+	
+	"artwork" : {
+		"imageUrl-xs" : "img/impi_artwork-xs.jpg",
+		"imageUrl-sm" : "img/impi_artwork-sm.jpg",
+		"imageUrl-md" : "img/impi_artwork-md.jpg",
+		"title" : "Springbok Anthem",
+		"subTitle": "From The Battle Of Isandlwana To The Rugby Field",
+		"artist" : {
+			"name" : "Unknown Photographer",
+			"url" : null
+		}
+	},
+		
+	
+	"mainMedia" : {"url" : "http://www.youtube.com/embed/jNAxa-qNkvI", "youtubeId" : "jNAxa-qNkvI"},
+		
+	"metadata" : {
+			"year" : 1981,
+			"country" : "South Africa",
+			"countryCode" : "za",
+			"title" : "Impi",
+			"artist" : "Juluka",
+			"credits" : [
+				
+				{"tag" : "p",
+				 "content" : "Music & lyrics by  Johnny Clegg."
+				},
+				
+				{"tag" : "p",
+				 "content" : "Story by Marguerite de Villiers."
+				}
+			]
+	},
+		
+		
+	"article" : {
+			
+			"content" : [
+			
+				{
+				"tag" : "div",
+				"cls" : "p",
+				"content" : [
+					"Every rugby fan is familiar with New Zealand's Haka, a traditional Maori war cry made up of rhythmic chanting and fierce stamping. It is a challenge to the dancers' opponents, telling them of their own bravery and strength. Similarly so, South Africa has an unofficial rugby anthem called ",
+					 {"tag" : "i", "content" : "Impi"}, 
+					 " by a band called Juluka."
+					] 
+				},
+				
+				
+				{
+				"tag" : "div",
+				"cls" : "excerpt",
+				"content" : "\"The war is coming. Who is brave enough to touch the lions?\""
+				},
+				
+				{
+				"tag" : "div",
+				"cls" : "p",
+				"content" : [
+					"Juluka, ",
+					{"tag" : "a", "href" : "https://en.wikipedia.org/wiki/Zulu_language", "content" : "Zulu"}, 
+					"for 'sweat', formed by Johannesburg-based Johnny Clegg and Sipho Mchunu was named after Mchunu's bull. The bull is a symbol of fearlessness and the band embodied this quality. Juluka was formed in 1969 and disbanded in 1985, when Mchunu returned to ",
+					 {"tag" : "a", "href" : "https://en.wikipedia.org/wiki/KwaZulu-Natal", "content" : "KwaZulu Natal"},
+					 ". Armed with politically inspired songs in a politically turbulent time, their shows were invaded by police with rubber bullets and tear gas, and their music was banned for a number of reasons: it was illegal for people of different races to gather in public, let alone perform on stage together, and there were laws against the mixing of languages. This didn't stop them from having a song, ",
+					 {"tag" : "i", "content" : "Impi" },
+					 ", off of their second album, ",
+					 {"tag" : "i", "content" : "African Litany" },
+					 ", from becoming an underground hit in 1981."
+					] 
+				},
+				
+				
+				{
+				"tag" : "div",
+				"cls" : "p",
+				"content" : [
+					"'Impi' is Zulu for 'war', and also refers to what Zulu warriors were called during the time of the Anglo-Zulu War. ",
+					{"tag" : "i", "content" : "Impi"},
+					" by Juluka is a song about one particular encounter between the Zulu and the British army in 1879: the Battle of Isandlwana. The Zulu outnumbered the British by a staggering amount, but the British had a technological advantage: their guns against the Zulu's ",
+					{"tag" : "a", "href" : "https://en.wikipedia.org/wiki/Assegai", "content" : "assegais"},
+					" and cow-hide shields. The Zulu's advanced war methods and tactics led to their victory and the defeat of the British, resulted in a failed invasion of Zululand. It is this display of courage and ingenuity that inspired Juluka to compose a powerful war cry entangled with the narrative of a historical event."
+					]
+				},
+				
+				
+				{
+				"tag" : "div",
+				"cls" : "excerpt",
+				"content" : "\"And by the evening the vultures were wheeling<br />Above the ruins where the fallen lay.<br />An ancient song as old as the ashes<br />Echoed as Mageba's warriors marched away\""
+				},
+				
+				
+				{
+				"tag" : "div",
+				"cls" : "p",
+				"content" : [
+					"Today, ",
+					{"tag" : "i", "content" : "Impi" },
+					" echoes through rugby stadiums; shouted by proud Springbok (the South African national rugby union team) supporters dressed in green and gold, accompanied by high kicks and stamping to imitate the thundering Zulu dances performed by Juluka all those years ago. It is no longer a political song, but a call for victory."
+					]
+				}
+				
+				
+			]
+	
+	}
+			
+}

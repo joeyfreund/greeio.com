@@ -1,0 +1,14 @@
+<div class="next-song-bottom-box container" ng-show="nextSongLoaded()">
+	<div class="row">
+		<div class="col-sm-4 left-section">
+		Next story ...
+		</div>
+		<div class="col-sm-7">
+			<img ng-src="{{nextSong.thumbnail}}" class="next-song-thumbnail pull-left" />
+			<div class="pull-left">
+				<p><img class="flag" ng-src="img/flags/{{nextSong.country}}.gif"/>{{nextSong.title}}</p>
+				<p>{{nextSong.subTitle}}</p>
+			</div>
+		</div>
+	</div>
+</div>
